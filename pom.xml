@@ -26,7 +26,7 @@
         <java.version>1.8</java.version>
         <!-- Dependency versions -->
         <mybatis.version>3.5.2</mybatis.version>
-        <mysql.version>8.0.18</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <!-- Plugin versions -->
         <mybatis-plus.version>3.2.0</mybatis-plus.version>
     </properties>
